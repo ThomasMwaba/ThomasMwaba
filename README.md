@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Mwaba
-- I have a BSC in Applied Mathematics and AWS Certified Developer Associate
-- I am currently completing my master's degree in Applied Mathematics
+- I have a Msc in Applied Mathematics and AWS Certified Developer Associate
+- I am currently working on my Data analysis skills
 - 📫 You can reach me on LinkedIn, linkedin.com/in/thomas-mwaba/
 
 <!---
